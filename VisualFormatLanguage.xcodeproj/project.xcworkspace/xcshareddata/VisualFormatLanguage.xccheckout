@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2A124963-6574-4421-B0D5-C3891A70A8A5</string>
+	<key>IDESourceControlProjectName</key>
+	<string>VisualFormatLanguage</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>EBE33511CEBE34049F9596DC3B76C40B0E77CBC0</key>
+		<string>https://github.com/KamalHunzai/VisualFormatLangaueWithSwift.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>VisualFormatLanguage.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>EBE33511CEBE34049F9596DC3B76C40B0E77CBC0</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/KamalHunzai/VisualFormatLangaueWithSwift.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>EBE33511CEBE34049F9596DC3B76C40B0E77CBC0</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EBE33511CEBE34049F9596DC3B76C40B0E77CBC0</string>
+			<key>IDESourceControlWCCName</key>
+			<string>VisualFormatLangaueWithSwift</string>
+		</dict>
+	</array>
+</dict>
+</plist>
